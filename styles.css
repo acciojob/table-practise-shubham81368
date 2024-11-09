@@ -6,7 +6,7 @@ table{
 thead,th{
 	border:1px solid black;
 }
-tr,td{
+tbody,tr,td{
 	border:1px solid black;
 	
 }
